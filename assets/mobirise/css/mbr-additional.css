@@ -2106,71 +2106,13 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #efefef;
 }
-.cid-suGrb3dJsD {
+.cid-suGmt5Cg8l {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-suGrb3dJsD .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-suGrb3dJsD .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-suGrb3dJsD .media-wrap img {
-  height: 6rem;
-  display: block;
-  width: auto;
-}
-.cid-suGrb3dJsD .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-suGrb3dJsD .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-suGrb3dJsD .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-suGrb3dJsD .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-suGrb3dJsD .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
+.cid-suGmt5Cg8l .media-container-row .mbr-text {
   color: #232323;
-}
-.cid-suGrb3dJsD .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-suGrb3dJsD .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-suGrb3dJsD .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-suGrb3dJsD .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
 }
 .cid-rXvYVhruL2 .navbar {
   padding: .5rem 0;
