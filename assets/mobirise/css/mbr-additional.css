@@ -2700,41 +2700,41 @@ section.lazy-placeholder:after {
 .cid-suKJVcT4Vi H1 {
   text-align: left;
 }
-.cid-suGr8guTYz {
+.cid-suKTvHrUXG {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
-  .cid-suGr8guTYz .media-wrap {
+  .cid-suKTvHrUXG .media-wrap {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-suGr8guTYz .media-wrap .mbr-iconfont-logo {
+.cid-suKTvHrUXG .media-wrap .mbr-iconfont-logo {
   font-size: 7rem;
   color: #f36;
 }
-.cid-suGr8guTYz .media-wrap img {
+.cid-suKTvHrUXG .media-wrap img {
   height: 6rem;
   display: block;
   width: auto;
 }
-.cid-suGr8guTYz .mbr-text {
+.cid-suKTvHrUXG .mbr-text {
   color: #767676;
 }
 @media (max-width: 767px) {
-  .cid-suGr8guTYz .footer-lower .copyright {
+  .cid-suKTvHrUXG .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-suGr8guTYz .footer-lower hr {
+.cid-suKTvHrUXG .footer-lower hr {
   margin: 1rem 0;
   border-color: #000;
   opacity: .05;
 }
-.cid-suGr8guTYz .footer-lower .social-list {
+.cid-suKTvHrUXG .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2744,24 +2744,24 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-suGr8guTYz .footer-lower .social-list .mbr-iconfont-social {
+.cid-suKTvHrUXG .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #232323;
 }
-.cid-suGr8guTYz .footer-lower .social-list .soc-item {
+.cid-suKTvHrUXG .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-suGr8guTYz .footer-lower .social-list a {
+.cid-suKTvHrUXG .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-suGr8guTYz .footer-lower .social-list a:hover {
+.cid-suKTvHrUXG .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-suGr8guTYz .footer-lower .social-list {
+  .cid-suKTvHrUXG .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
