@@ -2211,41 +2211,41 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #efefef;
 }
-.cid-suKTcm4c0r {
+.cid-suKUh8Lkij {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
-  .cid-suKTcm4c0r .media-wrap {
+  .cid-suKUh8Lkij .media-wrap {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-suKTcm4c0r .media-wrap .mbr-iconfont-logo {
+.cid-suKUh8Lkij .media-wrap .mbr-iconfont-logo {
   font-size: 7rem;
   color: #f36;
 }
-.cid-suKTcm4c0r .media-wrap img {
+.cid-suKUh8Lkij .media-wrap img {
   height: 6rem;
   display: block;
   width: auto;
 }
-.cid-suKTcm4c0r .mbr-text {
+.cid-suKUh8Lkij .mbr-text {
   color: #767676;
 }
 @media (max-width: 767px) {
-  .cid-suKTcm4c0r .footer-lower .copyright {
+  .cid-suKUh8Lkij .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-suKTcm4c0r .footer-lower hr {
+.cid-suKUh8Lkij .footer-lower hr {
   margin: 1rem 0;
   border-color: #000;
   opacity: .05;
 }
-.cid-suKTcm4c0r .footer-lower .social-list {
+.cid-suKUh8Lkij .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2255,24 +2255,24 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-suKTcm4c0r .footer-lower .social-list .mbr-iconfont-social {
+.cid-suKUh8Lkij .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #232323;
 }
-.cid-suKTcm4c0r .footer-lower .social-list .soc-item {
+.cid-suKUh8Lkij .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-suKTcm4c0r .footer-lower .social-list a {
+.cid-suKUh8Lkij .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-suKTcm4c0r .footer-lower .social-list a:hover {
+.cid-suKUh8Lkij .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-suKTcm4c0r .footer-lower .social-list {
+  .cid-suKUh8Lkij .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
