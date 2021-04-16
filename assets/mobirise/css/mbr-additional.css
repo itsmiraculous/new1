@@ -1054,71 +1054,36 @@ section.lazy-placeholder:after {
 .cid-suGlAXgZ0h .mbr-section-btn {
   color: #ffffff;
 }
-.cid-suKZmJrst9 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-suL0FEqLSj {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-@media (max-width: 767px) {
-  .cid-suKZmJrst9 .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-suKZmJrst9 .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-suKZmJrst9 .media-wrap img {
-  height: 6rem;
-  display: block;
-  width: auto;
-}
-.cid-suKZmJrst9 .mbr-text {
+.cid-suL0FEqLSj P {
   color: #767676;
 }
-@media (max-width: 767px) {
-  .cid-suKZmJrst9 .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-suL0FEqLSj H1 {
+  text-align: left;
 }
-.cid-suKZmJrst9 .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
+.cid-suL0FEqLSj .mbr-text,
+.cid-suL0FEqLSj .mbr-section-btn {
+  text-align: right;
 }
-.cid-suKZmJrst9 .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+.cid-suL0IvB084 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-suKZmJrst9 .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
+.cid-suL0IvB084 P {
+  color: #767676;
 }
-.cid-suKZmJrst9 .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
+.cid-suL0IvB084 H1 {
+  text-align: left;
 }
-.cid-suKZmJrst9 .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-suKZmJrst9 .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-suKZmJrst9 .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
+.cid-suL0IOacqt {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/eb3anjqxsae-l6f-1920x1080.jpg");
 }
 .cid-rXvYVhruL2 .navbar {
   padding: .5rem 0;
